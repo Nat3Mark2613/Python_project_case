@@ -179,3 +179,4 @@ if __name__ == "__main__":
     print("Send\nnew - to do new task\ncancel - to cancel task\nview - to view all tasks"
           "\ntime - to set time\nquit to quit")
     main_loop()
+print( 'fuck')
